@@ -1,4 +1,5 @@
 # muggucci.github.io
+<main/>
 <div class="cont s--inactive">
   <!-- cont inner start -->
   <div class="cont__inner">
